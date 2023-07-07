@@ -1,0 +1,36 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(moedas.png);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .titulo_da_pagina{
+    color: #000000;
+  margin: 0 0 5px;
+  }
+
+  .logo-pagina{
+    width: 200px;
+  }
+
+  img{
+    max-width: 250px;
+
+  }
+
+  .Rodape{
+    font-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+  }
